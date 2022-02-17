@@ -1,8 +1,14 @@
 <div align="center">
 	<a href="https://github.com/frtechdev/frtechdev">
-		<img src="src/banner.svg" width="1000" height="300"/>
+		<img src="src/wallpaper_frtech.png" width="1000" height="500"/>
     </a>
 <div>
+<!-- <br><br>
+<div align="center">
+	<a href="https://github.com/frtechdev/frtechdev">
+		<img src="src/banner.svg" width="400" height="400"/>
+    </a>
+<div> -->
 <br><br>
 <div align="center">
     <a href="https://code.visualstudio.com/">
@@ -40,20 +46,6 @@
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 			alt="javascript"/>
     </a>
-    <a href="https://www.java.com">
-        <img 
-			width="45em"
-  			height="45em"
-			src="https://www.svgrepo.com/show/184143/java.svg" 
-			alt="java"/>
-    </a>
-    <a href="https://angular.io">
-    	<img 
-			width="45em"
-  			height="45em"
-			src="https://www.svgrepo.com/show/353396/angular-icon.svg" 
-			alt="angular"/>
-    </a>
     <a href="https://nextjs.org/">
     	<img 
 			width="45em"
@@ -68,12 +60,26 @@
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
 			alt="nodejs"/>
     </a>
+	<a href="https://reactjs.org">
+    	<img 
+			width="45em"
+  			height="45em"
+			src="https://reactjs.org/logo-og.png" 
+			alt="react"/>
+    </a>
     <a href="https://www.prisma.io">
         <img 
 			width="45em"
   			height="45em"
 			src="https://cdn.changelog.com/uploads/icons/topics/3L8/icon_large.png?v=63693703596" 
 			alt="prisma"/>
+    </a>
+	<a href="https://reactjs.org">
+    	<img 
+			width="45em"
+  			height="45em"
+			src="https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" 
+			alt="mssqlms"/>
     </a>
     <a href="https://www.mysql.com">
         <img 
@@ -116,11 +122,11 @@
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtechdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=aura"/>
 </a>
 <h4>Trabalhando atualmente em:</h4>
-<a href="https://github.com/frtechdev/frtechdev">
+<a href="https://github.com/frtechdev/flem-ppe">
     <img 
 		height="100em"
-		src="https://github-readme-stats.vercel.app/api/pin/?username=frtechdev&repo=dcl-auth-api&theme=aura"/>
+		src="https://github-readme-stats.vercel.app/api/pin/?username=frtechdev&repo=flem-ppe&theme=aura"/>
 </a>
 </div>
 <!-- Version:
-v1.0.0.220216 -->
+v2.0.0.220216 -->
