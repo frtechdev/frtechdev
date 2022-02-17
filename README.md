@@ -62,9 +62,9 @@
     </a>
 	<a href="https://reactjs.org">
     	<img 
-			width="45em"
-  			height="45em"
-			src="https://reactjs.org/logo-og.png" 
+			width="50em"
+  			height="50em"
+			src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" 
 			alt="react"/>
     </a>
     <a href="https://www.prisma.io">
@@ -74,17 +74,17 @@
 			src="https://cdn.changelog.com/uploads/icons/topics/3L8/icon_large.png?v=63693703596" 
 			alt="prisma"/>
     </a>
-	<a href="https://reactjs.org">
+	<a href="https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15">
     	<img 
 			width="45em"
   			height="45em"
-			src="https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" 
+			src="https://img.utdstc.com/icon/c32/1e3/c321e3ae6fc40697b9f1b1d1631d5c29377089053efa2a0621ffdcc6e860b5eb:200" 
 			alt="mssqlms"/>
     </a>
     <a href="https://www.mysql.com">
         <img 
-			width="45em"
-  			height="45em"
+			width="50em"
+  			height="50em"
 			src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" 
 			alt="mysql"/>
     </a>
@@ -118,7 +118,7 @@
 </a>
 <a href="https://github.com/frtechdev">
     <img 
-		height="150em"
+		height="100em"
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtechdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=aura"/>
 </a>
 <h4>Trabalhando atualmente em:</h4>
