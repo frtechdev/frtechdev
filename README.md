@@ -114,19 +114,19 @@
 <a href="https://github.com/frtechdev">
     <img 
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api?username=frtechdev&show_icons=true&include_all_commits=true&count_private=true&theme=aura"/>
+		src="https://github-readme-stats.vercel.app/api?username=frtechdev&show_icons=true&include_all_commits=true&count_private=true&theme=algolia"/>
 </a>
 <a href="https://github.com/frtechdev">
     <img 
 		height="100em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtechdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=aura"/>
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=frtechdev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=algolia"/>
 </a>
 <h4>Trabalhando atualmente em:</h4>
 <a href="https://github.com/frtechdev/flem-ppe">
     <img 
 		height="100em"
-		src="https://github-readme-stats.vercel.app/api/pin/?username=frtechdev&repo=flem-ppe&theme=aura"/>
+		src="https://github-readme-stats.vercel.app/api/pin/?username=frtechdev&repo=flem-ppe&theme=algolia"/>
 </a>
 </div>
 <!-- Version:
-v2.0.0.220216 -->
+v2.0.2.220217 -->
